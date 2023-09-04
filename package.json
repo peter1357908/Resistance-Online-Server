@@ -2,7 +2,7 @@
   "name": "cs52-online-multiplayer-game-api",
   "version": "1.0.0",
   "description": "For COSC52 Final Project - Online Multiplayer Game",
-  "repository": "git@github.com:dartmouth-cs52-20S/project-api-online-multiplayer-game.git",
+  "repository": "git@github.com:peter1357908/Resistance-Online-Server.git",
   "author": "Peter Gao <peter1357908@hotmail.com>",
   "main": "src/server.js",
   "scripts": {
