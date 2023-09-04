@@ -37,7 +37,7 @@
     "lodash.throttle": "^4.1.1",
     "mongoose": "^5.9.15",
     "morgan": "^1.10.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
